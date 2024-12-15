@@ -1,3 +1,6 @@
 [submodule "learning-lm-rs"]
 	path = learning-lm-rs
 	url = git@github.com:lms2004/learning-lm-rs.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:lms2004/learning-cxx.git
